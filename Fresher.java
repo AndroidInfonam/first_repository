@@ -13,7 +13,12 @@ public class Fresher{
 	}
 
 	//Thoai edit: created a new method
-	public String getFeshers {
+	public String getFeshers() {
+		return "Thoai";
+	}
+
+	//Thoai edit: created a new method
+	public String getFeshers() {
 		return "Thoai";
 	}
 }
