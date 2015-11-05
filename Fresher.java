@@ -34,4 +34,6 @@ return Thang;
 	public String getFeshers() {
 		return "Thoai";
 	}
+	private String id;
+	private String name;
 }
