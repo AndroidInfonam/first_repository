@@ -22,6 +22,8 @@ return Thang;
 	public void printName() {
 		system.out.println("Bui Thanh Thoai");
 	public String getFeshers() {
+
+	public String getFeshers {
 		return "Thoai";
 	}
 }
