@@ -23,7 +23,7 @@ public class Fresher{
 		}
 
 		public boolean checkId(String id){
-			return false;
+			return true;
 		}
 	}
 }
