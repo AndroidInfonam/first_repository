@@ -7,6 +7,7 @@ return Thang;
 	//Thoai edit: created a new method
 	public String getFeshers() {
 		return "Thoai";
+		System.out.println("Hello Thoai commit 1!");
 	}
 	
        public  void outname()
