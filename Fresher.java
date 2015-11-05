@@ -12,7 +12,7 @@ return Thang;
 	
        public  void outname()
 	{
-		System.out.println("thang");
+		System.out.println("Commit 2");
 	}
 
 	 public String getFeshers{
