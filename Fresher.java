@@ -1,4 +1,4 @@
-public class main{
+public class Fresher{
 	public static void main(String[] args){
 	
 	}
