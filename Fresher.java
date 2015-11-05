@@ -9,9 +9,12 @@ return Thang;
 		return "Thoai";
 	}
 	
-
        public  void outname()
 	{
 		System.out.println("thang");
+	}
+
+	 public String getFeshers{
+		return Thang;
 	}
 }
