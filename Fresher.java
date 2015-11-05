@@ -3,7 +3,9 @@ public class Fresher{
 		System.out.println("Hello world!");
 	}
 	
-	public String getFresher(Person p){
-		return p.getName();
+
+       public  void outname()
+	{
+		System.out.println("thang");
 	}
 }
