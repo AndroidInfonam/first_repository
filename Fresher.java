@@ -1,6 +1,6 @@
 public class Fresher{
 	public static void main(String[] args){
-		System.out.println("Hello world!");
+		System.out.println("Hello Thoai commit 1!");
 	}
 	
        public  void outname()
