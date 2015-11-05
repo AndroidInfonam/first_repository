@@ -3,9 +3,12 @@ public class Fresher{
 		System.out.println("Hello world!");
 	}
 	
-
        public  void outname()
 	{
 		System.out.println("thang");
+	}
+
+	 public String getFeshers{
+		return Thang;
 	}
 }
