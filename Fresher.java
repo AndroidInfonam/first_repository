@@ -8,4 +8,8 @@ return Thang;
 	public String getFeshers() {
 		return "Thoai";
 	}
+	
+	public String getFresher(Person p){
+		return p.getName();
+	}
 }
