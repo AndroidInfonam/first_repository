@@ -11,4 +11,9 @@ public class Fresher{
 	 public String getFeshers{
 		return Thang;
 	}
+
+	//Thoai edit: created a new method
+	public void printName() {
+		system.out.println("Bui Thanh Thoai");
+	}
 }
