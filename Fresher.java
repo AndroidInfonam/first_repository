@@ -5,7 +5,7 @@ public class Fresher{
 	
        public  void outname()
 	{
-		System.out.println("thang");
+		System.out.println("Commit 2");
 	}
 
 	 public String getFeshers{
